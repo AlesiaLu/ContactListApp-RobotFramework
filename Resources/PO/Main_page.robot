@@ -33,7 +33,8 @@ Find Submit
 
 Submit Login
     Click Button    ${SUBMIT_LOGIN_BTN}
-    Sleep  3s
+    Sleep  5s
+
 
 #Validate Page Contents
 #    # this fails in chrome but passes in Edge
